@@ -1,0 +1,1 @@
+No more than one nest in route name so only /collection_name/page but not /collection_name/something/page
